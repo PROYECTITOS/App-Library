@@ -1,0 +1,22 @@
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\App Library.exe.config
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\App Library.exe
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\App Library.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Login.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Main.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Mantenimiento.Autores.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Mantenimiento.Generos.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Mantenimiento.Libros.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Mantenimiento.Tiendas.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Properties.Resources.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App Library.csproj.GenerateResource.Cache
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App Library.exe
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App Library.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App_Library.Resources.Mensajes.resources
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\obj\Debug\App Library.csprojResolveAssemblyReference.cache
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\BL.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\EL.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\DAO.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\MySql.Data.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\BL.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\EL.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\App Library\bin\Debug\DAO.pdb

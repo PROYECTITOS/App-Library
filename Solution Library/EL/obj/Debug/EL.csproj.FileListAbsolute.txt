@@ -1,0 +1,4 @@
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\EL\bin\Debug\EL.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\EL\bin\Debug\EL.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\EL\obj\Debug\EL.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\EL\obj\Debug\EL.pdb

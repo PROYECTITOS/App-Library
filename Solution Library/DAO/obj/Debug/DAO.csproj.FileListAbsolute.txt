@@ -1,0 +1,8 @@
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\bin\Debug\DAO.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\bin\Debug\DAO.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\obj\Debug\DAO.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\obj\Debug\DAO.pdb
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\bin\Debug\EL.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\bin\Debug\mysql.data.dll
+C:\Users\MarkAnthony\Desktop\App Library\App-Library\Solution Library\DAO\bin\Debug\EL.pdb
